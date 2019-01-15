@@ -23,9 +23,13 @@ detected. Optionally, the detection display can be recorded.
 # How to Run?
 
 There are 4 optional arguments:
---face: Path to where the face cascade resides, defined by the standard that comes with the project
---video: In the case where you want to analyze a video, the path to your file is passed through this argument
---record: If you want to record the detection pass the filename of the video file with the extension mp4 by this argument
+
+--face: Path to where the face cascade resides, defined by the standard that comes with the project.
+
+--video: In the case where you want to analyze a video, the path to your file is passed through this argument.
+
+--record: If you want to record the detection pass the filename of the video file with the extension mp4 by this argument.
+
 --resolution: Argument to set both the webcam resolution and the resolution of the recording. Receives "480p", "720p", "1080p" or "4k. (with recording errors)
 
 ## Examples
