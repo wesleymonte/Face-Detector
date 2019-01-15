@@ -12,7 +12,7 @@ detected. Optionally, the detection display can be recorded.
 
 ![](gif/preview.gif)
 
-# Installation
+# Setting up
 
 *  `git clone https://github.com/wesleymonte/Face-Detector.git`
 
